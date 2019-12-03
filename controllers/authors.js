@@ -37,15 +37,16 @@ module.exports = {
 
     async getId(ctx) {
         const {id} = ctx.params;
+        const {fields}= ctx.query;
 
         if (await ctx.requestEntityCache('author', id)) {
             return;
         }
 
-        const author = await authors.getId(id, ctx.query.fields);
+        const author = await authors.getId(id, fields);
 
         ctx.cacheOptions = {
-            entity: {model: 'author'}
+            entity: !fields && {model: 'author'}
         };
 
         if (author) {

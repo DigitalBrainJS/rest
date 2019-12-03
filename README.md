@@ -31,7 +31,7 @@
     
 - `[GET]` endpoint/:resourceId?[params] - get specific resource
     params list:
-    - fields
+    - fields - (to simplify the logic of the code, field filtering is ignored when returning a cached entry)
 - `[POST]` endpoint (add resource)
 - `[PATCH]` endpoint/:resourceId (update the data for the specified resource)
  
