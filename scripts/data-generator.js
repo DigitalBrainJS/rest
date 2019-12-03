@@ -33,7 +33,6 @@ const generateBookEntry = (title) => {
         host: config.mysql.host,
         user: config.mysql.user,
         password: config.mysql.password,
-        database: config.mysql.db,
         waitForConnections: true,
         multipleStatements: true,
         connectionLimit: 10,
@@ -41,6 +40,8 @@ const generateBookEntry = (title) => {
     });
 
     try {
+        await pool.query(`CREATE DATABASE IF NOT EXISTS ${config.mysql.db}`);
+        await pool.query(`use ${config.mysql.db}`);
         await pool.query(`
         ALTER TABLE books
         DROP FOREIGN KEY FK_books_author;
