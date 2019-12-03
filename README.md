@@ -24,7 +24,7 @@
     - `limit: Integer`
     - `fields` - comma separated fields to retrieve (fields=title,description,date) 
     - `order` - comma separated fields, "-" before field name means desc sorting, asc otherwise (order=-date)
-    - `where` - comma separated fields expressions like `field:[operator]:[value]:[useOR]`
+    - `where` - comma separated expressions like `field:[operator]:[value]:[useOR]`
         - supported operators: (`like`, `eq` (default), `gt`, `lt`)
         - if any value is present, conditions will be combined by the OR operator
  
