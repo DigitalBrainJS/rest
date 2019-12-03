@@ -78,7 +78,7 @@ const redisCache = ({ttl: defaultTTL = 60} = {}) => async (ctx, next) => {
                 ctx.body = entity;
                 return true;
             } else {
-                logger.debug(colorize((value) => chalk.red.bold.underline(value))`Entity cache missing for ${modelName}#${id}`);
+                logger.debug(colorize((value) => chalk.red.bold.underline(value))`Entity cache is missing for ${modelName}#${id}`);
             }
 
             return false;
@@ -138,7 +138,6 @@ const redisCache = ({ttl: defaultTTL = 60} = {}) => async (ctx, next) => {
                 }
             }
         }
-
         return;
     }
 
