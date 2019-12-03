@@ -24,7 +24,7 @@ const books = {
     },
 
     async getId(id, fields){
-        const result= (await mysqlQuery(fetchQuery(0, 1, {fields, where: [['id', '=', id]]})));
+        const result= (await mysqlQuery(fetchQuery(0, 1, {fields, where: [['id', '=', id]]})))[0];
         return result.length? result[0] : null;
     },
 
