@@ -39,7 +39,7 @@ router
             }, {
                 fields: parseArray
             },
-            {allowUnknown: true}),
+            {allowUnknown: false}),
         accept.path({
             id: idValidator
         }),
