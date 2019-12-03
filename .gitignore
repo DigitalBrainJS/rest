@@ -1,0 +1,8 @@
+/dist/
+/node_modules/
+/lib/
+/trash/
+/.idea/
+/.nyc_output/
+/coverage/
+/logs/

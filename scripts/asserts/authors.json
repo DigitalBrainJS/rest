@@ -1,0 +1,3003 @@
+{ 
+"objects":[ 
+{ 
+"name":"Barbara Cartland"
+},
+{ 
+"name":"Mary Shelley"
+},
+{ 
+"name":"Barbara Cartland"
+},
+{ 
+"name":"Barbara Cartland"
+},
+{ 
+"name":"Doris Lessing"
+},
+{ 
+"name":"Horatio Alger"
+},
+{ 
+"name":"Henry James"
+},
+{ 
+"name":"Rachel Hollis"
+},
+{ 
+"name":"Danielle Steel"
+},
+{ 
+"name":"Bella Forrest"
+},
+{ 
+"name":"Danielle Steel"
+},
+{ 
+"name":"Jin Yong"
+},
+{ 
+"name":"Agatha Christie"
+},
+{ 
+"name":"Tennessee Williams"
+},
+{ 
+"name":"Tennessee Williams"
+},
+{ 
+"name":"Stephenie Meyer"
+},
+{ 
+"name":"J. R. R. Tolkien"
+},
+{ 
+"name":"Margaret Atwood"
+},
+{ 
+"name":"Ralph Waldo Emerson"
+},
+{ 
+"name":"Stephenie Meyer"
+},
+{ 
+"name":"Carlos Ruiz Zafon"
+},
+{ 
+"name":"Leo Tolstoy"
+},
+{ 
+"name":"Tennessee Williams"
+},
+{ 
+"name":"Barbara Cartland"
+},
+{ 
+"name":"T. S. Eliot"
+},
+{ 
+"name":"Ernest Hemingway"
+},
+{ 
+"name":"Nathaniel Hawthorne"
+},
+{ 
+"name":"Tennessee Williams"
+},
+{ 
+"name":"Harper Lee"
+},
+{ 
+"name":"Stephen King"
+},
+{ 
+"name":"Mark Twain"
+},
+{ 
+"name":"Cormac McCarthy"
+},
+{ 
+"name":"J. R. R. Tolkien"
+},
+{ 
+"name":"Flannery O'Connor"
+},
+{ 
+"name":"Dr. Seuss"
+},
+{ 
+"name":"Carolyn Brown"
+},
+{ 
+"name":"Doris Lessing"
+},
+{ 
+"name":"Mary Shelley"
+},
+{ 
+"name":"William Faulkner"
+},
+{ 
+"name":"T. S. Eliot"
+},
+{ 
+"name":"Flannery O'Connor"
+},
+{ 
+"name":"G.R.R. Martin"
+},
+{ 
+"name":"Jules Verne"
+},
+{ 
+"name":"Jin Yong"
+},
+{ 
+"name":"Cormac McCarthy"
+},
+{ 
+"name":"Agatha Christie"
+},
+{ 
+"name":"J. R. R. Tolkien"
+},
+{ 
+"name":"Jin Yong"
+},
+{ 
+"name":"Jin Yong"
+},
+{ 
+"name":"Guillaume Musso"
+},
+{ 
+"name":"William Faulkner"
+},
+{ 
+"name":"Dr. Seuss"
+},
+{ 
+"name":"Alexandre Dumas"
+},
+{ 
+"name":"J. R. R. Tolkien"
+},
+{ 
+"name":"Jules Verne"
+},
+{ 
+"name":"Mark Twain"
+},
+{ 
+"name":"T. S. Eliot"
+},
+{ 
+"name":"Carolyn Brown"
+},
+{ 
+"name":"Dr. Seuss"
+},
+{ 
+"name":"Horatio Alger"
+},
+{ 
+"name":"Paulo Coelo"
+},
+{ 
+"name":"Danielle Steel"
+},
+{ 
+"name":"Herman Melville"
+},
+{ 
+"name":"Emily Dickinson"
+},
+{ 
+"name":"Ray Bradbury"
+},
+{ 
+"name":"Edith Wharton"
+},
+{ 
+"name":"F. Scott Fitzgerald"
+},
+{ 
+"name":"G.R.R. Martin"
+},
+{ 
+"name":"Alexander Pushkin"
+},
+{ 
+"name":"Henry James"
+},
+{ 
+"name":"Stephen King"
+},
+{ 
+"name":"Bella Forrest"
+},
+{ 
+"name":"John Steinbeck"
+},
+{ 
+"name":"William Shakespeare"
+},
+{ 
+"name":"Doris Lessing"
+},
+{ 
+"name":"Nathaniel Hawthorne"
+},
+{ 
+"name":"J. R. R. Tolkien"
+},
+{ 
+"name":"Emily Dickinson"
+},
+{ 
+"name":"Carlos Ruiz Zafon"
+},
+{ 
+"name":"William Faulkner"
+},
+{ 
+"name":"J. R. R. Tolkien"
+},
+{ 
+"name":"Dr. Seuss"
+},
+{ 
+"name":"Emily Dickinson"
+},
+{ 
+"name":"Bella Forrest"
+},
+{ 
+"name":"J. K. Rowling"
+},
+{ 
+"name":"G.R.R. Martin"
+},
+{ 
+"name":"Kurt Vonnegut"
+},
+{ 
+"name":"Alexander Pushkin"
+},
+{ 
+"name":"Kurt Vonnegut"
+},
+{ 
+"name":"Edgar Allan Poe"
+},
+{ 
+"name":"J. R. R. Tolkien"
+},
+{ 
+"name":"Doris Lessing"
+},
+{ 
+"name":"Doris Lessing"
+},
+{ 
+"name":"John Steinbeck"
+},
+{ 
+"name":"Jack London"
+},
+{ 
+"name":"Emily Dickinson"
+},
+{ 
+"name":"Emily Dickinson"
+},
+{ 
+"name":"Ralph Waldo Emerson"
+},
+{ 
+"name":"G.R.R. Martin"
+},
+{ 
+"name":"Stephenie Meyer"
+},
+{ 
+"name":"Guillaume Musso"
+},
+{ 
+"name":"Franz Kafka"
+},
+{ 
+"name":"John Steinbeck"
+},
+{ 
+"name":"J. K. Rowling"
+},
+{ 
+"name":"T. S. Eliot"
+},
+{ 
+"name":"T. S. Eliot"
+},
+{ 
+"name":"Stephen King"
+},
+{ 
+"name":"J. R. R. Tolkien"
+},
+{ 
+"name":"Ernest Hemingway"
+},
+{ 
+"name":"Jin Yong"
+},
+{ 
+"name":"Henry James"
+},
+{ 
+"name":"C.S. Lewis"
+},
+{ 
+"name":"Stephen King"
+},
+{ 
+"name":"Leo Tolstoy"
+},
+{ 
+"name":"Edgar Allan Poe"
+},
+{ 
+"name":"Edith Wharton"
+},
+{ 
+"name":"Stephen King"
+},
+{ 
+"name":"J. K. Rowling"
+},
+{ 
+"name":"Alexander Pushkin"
+},
+{ 
+"name":"J. R. R. Tolkien"
+},
+{ 
+"name":"Barbara Cartland"
+},
+{ 
+"name":"F. Scott Fitzgerald"
+},
+{ 
+"name":"Danielle Steel"
+},
+{ 
+"name":"Bella Forrest"
+},
+{ 
+"name":"Franz Kafka"
+},
+{ 
+"name":"Walt Whitman"
+},
+{ 
+"name":"F. Scott Fitzgerald"
+},
+{ 
+"name":"Alexander Pushkin"
+},
+{ 
+"name":"Carolyn Brown"
+},
+{ 
+"name":"Rachel Hollis"
+},
+{ 
+"name":"Herman Melville"
+},
+{ 
+"name":"Mark Twain"
+},
+{ 
+"name":"C.S. Lewis"
+},
+{ 
+"name":"Edith Wharton"
+},
+{ 
+"name":"Herman Melville"
+},
+{ 
+"name":"G.R.R. Martin"
+},
+{ 
+"name":"Emily Dickinson"
+},
+{ 
+"name":"Alexander Pushkin"
+},
+{ 
+"name":"Cormac McCarthy"
+},
+{ 
+"name":"Walt Whitman"
+},
+{ 
+"name":"Paulo Coelo"
+},
+{ 
+"name":"Franz Kafka"
+},
+{ 
+"name":"Tennessee Williams"
+},
+{ 
+"name":"Flannery O'Connor"
+},
+{ 
+"name":"Dr. Seuss"
+},
+{ 
+"name":"Robert Frost"
+},
+{ 
+"name":"Rachel Hollis"
+},
+{ 
+"name":"Alexandre Dumas"
+},
+{ 
+"name":"Guillaume Musso"
+},
+{ 
+"name":"J. K. Rowling"
+},
+{ 
+"name":"Carolyn Brown"
+},
+{ 
+"name":"Danielle Steel"
+},
+{ 
+"name":"Mark Twain"
+},
+{ 
+"name":"Danielle Steel"
+},
+{ 
+"name":"Horatio Alger"
+},
+{ 
+"name":"F. Scott Fitzgerald"
+},
+{ 
+"name":"Mary Shelley"
+},
+{ 
+"name":"Ralph Waldo Emerson"
+},
+{ 
+"name":"Stephen King"
+},
+{ 
+"name":"John Steinbeck"
+},
+{ 
+"name":"Jules Verne"
+},
+{ 
+"name":"Emily Dickinson"
+},
+{ 
+"name":"G.R.R. Martin"
+},
+{ 
+"name":"Harper Lee"
+},
+{ 
+"name":"Barbara Cartland"
+},
+{ 
+"name":"Doris Lessing"
+},
+{ 
+"name":"Alexander Pushkin"
+},
+{ 
+"name":"Barbara Cartland"
+},
+{ 
+"name":"Doris Lessing"
+},
+{ 
+"name":"Leo Tolstoy"
+},
+{ 
+"name":"Jack London"
+},
+{ 
+"name":"Stephen King"
+},
+{ 
+"name":"Danielle Steel"
+},
+{ 
+"name":"Guillaume Musso"
+},
+{ 
+"name":"J. K. Rowling"
+},
+{ 
+"name":"Horatio Alger"
+},
+{ 
+"name":"C.S. Lewis"
+},
+{ 
+"name":"Emily Dickinson"
+},
+{ 
+"name":"Oscar Wilde"
+},
+{ 
+"name":"William Shakespeare"
+},
+{ 
+"name":"Ernest Hemingway"
+},
+{ 
+"name":"Tennessee Williams"
+},
+{ 
+"name":"Margaret Atwood"
+},
+{ 
+"name":"Emily Dickinson"
+},
+{ 
+"name":"Rachel Hollis"
+},
+{ 
+"name":"Paulo Coelo"
+},
+{ 
+"name":"Carolyn Brown"
+},
+{ 
+"name":"Bella Forrest"
+},
+{ 
+"name":"Henry James"
+},
+{ 
+"name":"Rachel Hollis"
+},
+{ 
+"name":"Alexandre Dumas"
+},
+{ 
+"name":"Oscar Wilde"
+},
+{ 
+"name":"Emily Dickinson"
+},
+{ 
+"name":"Doris Lessing"
+},
+{ 
+"name":"T. S. Eliot"
+},
+{ 
+"name":"J. R. R. Tolkien"
+},
+{ 
+"name":"Agatha Christie"
+},
+{ 
+"name":"William Faulkner"
+},
+{ 
+"name":"Tennessee Williams"
+},
+{ 
+"name":"T. S. Eliot"
+},
+{ 
+"name":"Robert Frost"
+},
+{ 
+"name":"Robert Frost"
+},
+{ 
+"name":"Carlos Ruiz Zafon"
+},
+{ 
+"name":"Jane Austen"
+},
+{ 
+"name":"Ernest Hemingway"
+},
+{ 
+"name":"J. K. Rowling"
+},
+{ 
+"name":"Carolyn Brown"
+},
+{ 
+"name":"Stephen King"
+},
+{ 
+"name":"Leo Tolstoy"
+},
+{ 
+"name":"Carolyn Brown"
+},
+{ 
+"name":"Dr. Seuss"
+},
+{ 
+"name":"Cormac McCarthy"
+},
+{ 
+"name":"Paulo Coelo"
+},
+{ 
+"name":"Cormac McCarthy"
+},
+{ 
+"name":"Nathaniel Hawthorne"
+},
+{ 
+"name":"Agatha Christie"
+},
+{ 
+"name":"Mark Twain"
+},
+{ 
+"name":"Herman Melville"
+},
+{ 
+"name":"Bella Forrest"
+},
+{ 
+"name":"J. R. R. Tolkien"
+},
+{ 
+"name":"Doris Lessing"
+},
+{ 
+"name":"Agatha Christie"
+},
+{ 
+"name":"Edgar Allan Poe"
+},
+{ 
+"name":"Emily Dickinson"
+},
+{ 
+"name":"Alexandre Dumas"
+},
+{ 
+"name":"Horatio Alger"
+},
+{ 
+"name":"Alexander Pushkin"
+},
+{ 
+"name":"G.R.R. Martin"
+},
+{ 
+"name":"Stephen King"
+},
+{ 
+"name":"Alexandre Dumas"
+},
+{ 
+"name":"J. R. R. Tolkien"
+},
+{ 
+"name":"Nathaniel Hawthorne"
+},
+{ 
+"name":"Stephenie Meyer"
+},
+{ 
+"name":"Stephenie Meyer"
+},
+{ 
+"name":"Margaret Atwood"
+},
+{ 
+"name":"Emily Dickinson"
+},
+{ 
+"name":"Walt Whitman"
+},
+{ 
+"name":"Jules Verne"
+},
+{ 
+"name":"John Steinbeck"
+},
+{ 
+"name":"Mark Twain"
+},
+{ 
+"name":"Herman Melville"
+},
+{ 
+"name":"Carlos Ruiz Zafon"
+},
+{ 
+"name":"Paulo Coelo"
+},
+{ 
+"name":"Henry James"
+},
+{ 
+"name":"Walt Whitman"
+},
+{ 
+"name":"Mark Twain"
+},
+{ 
+"name":"Mary Shelley"
+},
+{ 
+"name":"William Faulkner"
+},
+{ 
+"name":"Edith Wharton"
+},
+{ 
+"name":"William Shakespeare"
+},
+{ 
+"name":"Ralph Waldo Emerson"
+},
+{ 
+"name":"Danielle Steel"
+},
+{ 
+"name":"T. S. Eliot"
+},
+{ 
+"name":"Horatio Alger"
+},
+{ 
+"name":"Franz Kafka"
+},
+{ 
+"name":"Henry James"
+},
+{ 
+"name":"Dr. Seuss"
+},
+{ 
+"name":"Horatio Alger"
+},
+{ 
+"name":"Stephen King"
+},
+{ 
+"name":"Cormac McCarthy"
+},
+{ 
+"name":"Carlos Ruiz Zafon"
+},
+{ 
+"name":"Edgar Allan Poe"
+},
+{ 
+"name":"Carolyn Brown"
+},
+{ 
+"name":"Alexandre Dumas"
+},
+{ 
+"name":"T. S. Eliot"
+},
+{ 
+"name":"Robert Frost"
+},
+{ 
+"name":"Harper Lee"
+},
+{ 
+"name":"Ralph Waldo Emerson"
+},
+{ 
+"name":"Edgar Allan Poe"
+},
+{ 
+"name":"Herman Melville"
+},
+{ 
+"name":"William Faulkner"
+},
+{ 
+"name":"J. K. Rowling"
+},
+{ 
+"name":"Jin Yong"
+},
+{ 
+"name":"Ray Bradbury"
+},
+{ 
+"name":"J. K. Rowling"
+},
+{ 
+"name":"Jules Verne"
+},
+{ 
+"name":"Danielle Steel"
+},
+{ 
+"name":"Edith Wharton"
+},
+{ 
+"name":"T. S. Eliot"
+},
+{ 
+"name":"Cormac McCarthy"
+},
+{ 
+"name":"Alexander Pushkin"
+},
+{ 
+"name":"Franz Kafka"
+},
+{ 
+"name":"John Steinbeck"
+},
+{ 
+"name":"Cormac McCarthy"
+},
+{ 
+"name":"F. Scott Fitzgerald"
+},
+{ 
+"name":"Kurt Vonnegut"
+},
+{ 
+"name":"F. Scott Fitzgerald"
+},
+{ 
+"name":"Barbara Cartland"
+},
+{ 
+"name":"Jules Verne"
+},
+{ 
+"name":"Stephen King"
+},
+{ 
+"name":"Jules Verne"
+},
+{ 
+"name":"Herman Melville"
+},
+{ 
+"name":"Ralph Waldo Emerson"
+},
+{ 
+"name":"Henry James"
+},
+{ 
+"name":"Robert Frost"
+},
+{ 
+"name":"Horatio Alger"
+},
+{ 
+"name":"Carlos Ruiz Zafon"
+},
+{ 
+"name":"F. Scott Fitzgerald"
+},
+{ 
+"name":"Ralph Waldo Emerson"
+},
+{ 
+"name":"T. S. Eliot"
+},
+{ 
+"name":"Bella Forrest"
+},
+{ 
+"name":"Leo Tolstoy"
+},
+{ 
+"name":"Alexandre Dumas"
+},
+{ 
+"name":"Ralph Waldo Emerson"
+},
+{ 
+"name":"Danielle Steel"
+},
+{ 
+"name":"Robert Frost"
+},
+{ 
+"name":"Robert Frost"
+},
+{ 
+"name":"Barbara Cartland"
+},
+{ 
+"name":"J. K. Rowling"
+},
+{ 
+"name":"John Steinbeck"
+},
+{ 
+"name":"Dr. Seuss"
+},
+{ 
+"name":"Alexander Pushkin"
+},
+{ 
+"name":"Tennessee Williams"
+},
+{ 
+"name":"William Shakespeare"
+},
+{ 
+"name":"Cormac McCarthy"
+},
+{ 
+"name":"Emily Dickinson"
+},
+{ 
+"name":"Margaret Atwood"
+},
+{ 
+"name":"Leo Tolstoy"
+},
+{ 
+"name":"Ralph Waldo Emerson"
+},
+{ 
+"name":"Dr. Seuss"
+},
+{ 
+"name":"Carlos Ruiz Zafon"
+},
+{ 
+"name":"Kurt Vonnegut"
+},
+{ 
+"name":"Emily Dickinson"
+},
+{ 
+"name":"Bella Forrest"
+},
+{ 
+"name":"Mark Twain"
+},
+{ 
+"name":"Rachel Hollis"
+},
+{ 
+"name":"John Steinbeck"
+},
+{ 
+"name":"Carlos Ruiz Zafon"
+},
+{ 
+"name":"Emily Dickinson"
+},
+{ 
+"name":"Stephen King"
+},
+{ 
+"name":"Ray Bradbury"
+},
+{ 
+"name":"Dr. Seuss"
+},
+{ 
+"name":"Agatha Christie"
+},
+{ 
+"name":"Alexander Pushkin"
+},
+{ 
+"name":"J. R. R. Tolkien"
+},
+{ 
+"name":"Cormac McCarthy"
+},
+{ 
+"name":"Walt Whitman"
+},
+{ 
+"name":"Bella Forrest"
+},
+{ 
+"name":"F. Scott Fitzgerald"
+},
+{ 
+"name":"Flannery O'Connor"
+},
+{ 
+"name":"Alexandre Dumas"
+},
+{ 
+"name":"Stephen King"
+},
+{ 
+"name":"Cormac McCarthy"
+},
+{ 
+"name":"Alexandre Dumas"
+},
+{ 
+"name":"Barbara Cartland"
+},
+{ 
+"name":"Stephenie Meyer"
+},
+{ 
+"name":"Edith Wharton"
+},
+{ 
+"name":"Jane Austen"
+},
+{ 
+"name":"Herman Melville"
+},
+{ 
+"name":"Ray Bradbury"
+},
+{ 
+"name":"C.S. Lewis"
+},
+{ 
+"name":"Barbara Cartland"
+},
+{ 
+"name":"William Shakespeare"
+},
+{ 
+"name":"Nathaniel Hawthorne"
+},
+{ 
+"name":"Guillaume Musso"
+},
+{ 
+"name":"William Shakespeare"
+},
+{ 
+"name":"William Shakespeare"
+},
+{ 
+"name":"Danielle Steel"
+},
+{ 
+"name":"Alexander Pushkin"
+},
+{ 
+"name":"Paulo Coelo"
+},
+{ 
+"name":"Alexandre Dumas"
+},
+{ 
+"name":"F. Scott Fitzgerald"
+},
+{ 
+"name":"Ray Bradbury"
+},
+{ 
+"name":"Horatio Alger"
+},
+{ 
+"name":"G.R.R. Martin"
+},
+{ 
+"name":"Alexander Pushkin"
+},
+{ 
+"name":"Alexandre Dumas"
+},
+{ 
+"name":"Dr. Seuss"
+},
+{ 
+"name":"Ernest Hemingway"
+},
+{ 
+"name":"Carolyn Brown"
+},
+{ 
+"name":"T. S. Eliot"
+},
+{ 
+"name":"Ray Bradbury"
+},
+{ 
+"name":"Jin Yong"
+},
+{ 
+"name":"Guillaume Musso"
+},
+{ 
+"name":"Guillaume Musso"
+},
+{ 
+"name":"Horatio Alger"
+},
+{ 
+"name":"Agatha Christie"
+},
+{ 
+"name":"G.R.R. Martin"
+},
+{ 
+"name":"Stephenie Meyer"
+},
+{ 
+"name":"Emily Dickinson"
+},
+{ 
+"name":"Herman Melville"
+},
+{ 
+"name":"Guillaume Musso"
+},
+{ 
+"name":"Agatha Christie"
+},
+{ 
+"name":"John Steinbeck"
+},
+{ 
+"name":"Nathaniel Hawthorne"
+},
+{ 
+"name":"J. K. Rowling"
+},
+{ 
+"name":"Flannery O'Connor"
+},
+{ 
+"name":"Emily Dickinson"
+},
+{ 
+"name":"Walt Whitman"
+},
+{ 
+"name":"Dr. Seuss"
+},
+{ 
+"name":"Ralph Waldo Emerson"
+},
+{ 
+"name":"Margaret Atwood"
+},
+{ 
+"name":"Nathaniel Hawthorne"
+},
+{ 
+"name":"Herman Melville"
+},
+{ 
+"name":"Bella Forrest"
+},
+{ 
+"name":"Ralph Waldo Emerson"
+},
+{ 
+"name":"Jin Yong"
+},
+{ 
+"name":"J. K. Rowling"
+},
+{ 
+"name":"William Shakespeare"
+},
+{ 
+"name":"Barbara Cartland"
+},
+{ 
+"name":"Jack London"
+},
+{ 
+"name":"Franz Kafka"
+},
+{ 
+"name":"Barbara Cartland"
+},
+{ 
+"name":"Herman Melville"
+},
+{ 
+"name":"Jack London"
+},
+{ 
+"name":"Ernest Hemingway"
+},
+{ 
+"name":"C.S. Lewis"
+},
+{ 
+"name":"Agatha Christie"
+},
+{ 
+"name":"Barbara Cartland"
+},
+{ 
+"name":"Robert Frost"
+},
+{ 
+"name":"Guillaume Musso"
+},
+{ 
+"name":"Ralph Waldo Emerson"
+},
+{ 
+"name":"Walt Whitman"
+},
+{ 
+"name":"Stephen King"
+},
+{ 
+"name":"Carolyn Brown"
+},
+{ 
+"name":"Horatio Alger"
+},
+{ 
+"name":"Walt Whitman"
+},
+{ 
+"name":"Jane Austen"
+},
+{ 
+"name":"Herman Melville"
+},
+{ 
+"name":"Herman Melville"
+},
+{ 
+"name":"Carlos Ruiz Zafon"
+},
+{ 
+"name":"Edgar Allan Poe"
+},
+{ 
+"name":"Cormac McCarthy"
+},
+{ 
+"name":"Bella Forrest"
+},
+{ 
+"name":"Dr. Seuss"
+},
+{ 
+"name":"Oscar Wilde"
+},
+{ 
+"name":"Kurt Vonnegut"
+},
+{ 
+"name":"Barbara Cartland"
+},
+{ 
+"name":"William Shakespeare"
+},
+{ 
+"name":"J. K. Rowling"
+},
+{ 
+"name":"Rachel Hollis"
+},
+{ 
+"name":"Bella Forrest"
+},
+{ 
+"name":"Henry James"
+},
+{ 
+"name":"Horatio Alger"
+},
+{ 
+"name":"Ray Bradbury"
+},
+{ 
+"name":"Agatha Christie"
+},
+{ 
+"name":"Mary Shelley"
+},
+{ 
+"name":"Alexander Pushkin"
+},
+{ 
+"name":"Danielle Steel"
+},
+{ 
+"name":"Mark Twain"
+},
+{ 
+"name":"J. R. R. Tolkien"
+},
+{ 
+"name":"T. S. Eliot"
+},
+{ 
+"name":"Edith Wharton"
+},
+{ 
+"name":"Jane Austen"
+},
+{ 
+"name":"Alexandre Dumas"
+},
+{ 
+"name":"Alexander Pushkin"
+},
+{ 
+"name":"Franz Kafka"
+},
+{ 
+"name":"Paulo Coelo"
+},
+{ 
+"name":"Herman Melville"
+},
+{ 
+"name":"Rachel Hollis"
+},
+{ 
+"name":"Margaret Atwood"
+},
+{ 
+"name":"Guillaume Musso"
+},
+{ 
+"name":"Edgar Allan Poe"
+},
+{ 
+"name":"Guillaume Musso"
+},
+{ 
+"name":"Cormac McCarthy"
+},
+{ 
+"name":"Rachel Hollis"
+},
+{ 
+"name":"Flannery O'Connor"
+},
+{ 
+"name":"Oscar Wilde"
+},
+{ 
+"name":"Edith Wharton"
+},
+{ 
+"name":"Mary Shelley"
+},
+{ 
+"name":"J. R. R. Tolkien"
+},
+{ 
+"name":"Jules Verne"
+},
+{ 
+"name":"Margaret Atwood"
+},
+{ 
+"name":"F. Scott Fitzgerald"
+},
+{ 
+"name":"William Shakespeare"
+},
+{ 
+"name":"Jack London"
+},
+{ 
+"name":"J. R. R. Tolkien"
+},
+{ 
+"name":"Agatha Christie"
+},
+{ 
+"name":"John Steinbeck"
+},
+{ 
+"name":"Bella Forrest"
+},
+{ 
+"name":"Danielle Steel"
+},
+{ 
+"name":"Margaret Atwood"
+},
+{ 
+"name":"Edgar Allan Poe"
+},
+{ 
+"name":"Jules Verne"
+},
+{ 
+"name":"Flannery O'Connor"
+},
+{ 
+"name":"Oscar Wilde"
+},
+{ 
+"name":"Kurt Vonnegut"
+},
+{ 
+"name":"Oscar Wilde"
+},
+{ 
+"name":"Carolyn Brown"
+},
+{ 
+"name":"Edith Wharton"
+},
+{ 
+"name":"Margaret Atwood"
+},
+{ 
+"name":"J. K. Rowling"
+},
+{ 
+"name":"Kurt Vonnegut"
+},
+{ 
+"name":"Edgar Allan Poe"
+},
+{ 
+"name":"Doris Lessing"
+},
+{ 
+"name":"Carolyn Brown"
+},
+{ 
+"name":"J. K. Rowling"
+},
+{ 
+"name":"Rachel Hollis"
+},
+{ 
+"name":"Emily Dickinson"
+},
+{ 
+"name":"Edith Wharton"
+},
+{ 
+"name":"G.R.R. Martin"
+},
+{ 
+"name":"Alexandre Dumas"
+},
+{ 
+"name":"Ray Bradbury"
+},
+{ 
+"name":"John Steinbeck"
+},
+{ 
+"name":"Henry James"
+},
+{ 
+"name":"Rachel Hollis"
+},
+{ 
+"name":"Oscar Wilde"
+},
+{ 
+"name":"Margaret Atwood"
+},
+{ 
+"name":"Herman Melville"
+},
+{ 
+"name":"J. R. R. Tolkien"
+},
+{ 
+"name":"Doris Lessing"
+},
+{ 
+"name":"Nathaniel Hawthorne"
+},
+{ 
+"name":"Jack London"
+},
+{ 
+"name":"J. K. Rowling"
+},
+{ 
+"name":"C.S. Lewis"
+},
+{ 
+"name":"Carolyn Brown"
+},
+{ 
+"name":"Harper Lee"
+},
+{ 
+"name":"Ray Bradbury"
+},
+{ 
+"name":"T. S. Eliot"
+},
+{ 
+"name":"Jane Austen"
+},
+{ 
+"name":"Jin Yong"
+},
+{ 
+"name":"Ernest Hemingway"
+},
+{ 
+"name":"Oscar Wilde"
+},
+{ 
+"name":"Carolyn Brown"
+},
+{ 
+"name":"Bella Forrest"
+},
+{ 
+"name":"Paulo Coelo"
+},
+{ 
+"name":"Walt Whitman"
+},
+{ 
+"name":"Robert Frost"
+},
+{ 
+"name":"John Steinbeck"
+},
+{ 
+"name":"Jack London"
+},
+{ 
+"name":"Edith Wharton"
+},
+{ 
+"name":"Robert Frost"
+},
+{ 
+"name":"Nathaniel Hawthorne"
+},
+{ 
+"name":"Stephen King"
+},
+{ 
+"name":"Danielle Steel"
+},
+{ 
+"name":"Agatha Christie"
+},
+{ 
+"name":"Alexandre Dumas"
+},
+{ 
+"name":"Oscar Wilde"
+},
+{ 
+"name":"Herman Melville"
+},
+{ 
+"name":"G.R.R. Martin"
+},
+{ 
+"name":"Alexander Pushkin"
+},
+{ 
+"name":"Stephen King"
+},
+{ 
+"name":"Mary Shelley"
+},
+{ 
+"name":"T. S. Eliot"
+},
+{ 
+"name":"Jane Austen"
+},
+{ 
+"name":"Cormac McCarthy"
+},
+{ 
+"name":"Ray Bradbury"
+},
+{ 
+"name":"Paulo Coelo"
+},
+{ 
+"name":"J. K. Rowling"
+},
+{ 
+"name":"Doris Lessing"
+},
+{ 
+"name":"Ray Bradbury"
+},
+{ 
+"name":"Jack London"
+},
+{ 
+"name":"Stephen King"
+},
+{ 
+"name":"Paulo Coelo"
+},
+{ 
+"name":"Carlos Ruiz Zafon"
+},
+{ 
+"name":"Doris Lessing"
+},
+{ 
+"name":"Tennessee Williams"
+},
+{ 
+"name":"Ray Bradbury"
+},
+{ 
+"name":"Mark Twain"
+},
+{ 
+"name":"Cormac McCarthy"
+},
+{ 
+"name":"Tennessee Williams"
+},
+{ 
+"name":"Agatha Christie"
+},
+{ 
+"name":"William Faulkner"
+},
+{ 
+"name":"Jin Yong"
+},
+{ 
+"name":"Jack London"
+},
+{ 
+"name":"Cormac McCarthy"
+},
+{ 
+"name":"Alexander Pushkin"
+},
+{ 
+"name":"Leo Tolstoy"
+},
+{ 
+"name":"Cormac McCarthy"
+},
+{ 
+"name":"Flannery O'Connor"
+},
+{ 
+"name":"Herman Melville"
+},
+{ 
+"name":"F. Scott Fitzgerald"
+},
+{ 
+"name":"Walt Whitman"
+},
+{ 
+"name":"Edith Wharton"
+},
+{ 
+"name":"Jane Austen"
+},
+{ 
+"name":"Dr. Seuss"
+},
+{ 
+"name":"Cormac McCarthy"
+},
+{ 
+"name":"Stephenie Meyer"
+},
+{ 
+"name":"G.R.R. Martin"
+},
+{ 
+"name":"Doris Lessing"
+},
+{ 
+"name":"Rachel Hollis"
+},
+{ 
+"name":"Carolyn Brown"
+},
+{ 
+"name":"F. Scott Fitzgerald"
+},
+{ 
+"name":"C.S. Lewis"
+},
+{ 
+"name":"Kurt Vonnegut"
+},
+{ 
+"name":"Stephen King"
+},
+{ 
+"name":"Ralph Waldo Emerson"
+},
+{ 
+"name":"Stephen King"
+},
+{ 
+"name":"William Faulkner"
+},
+{ 
+"name":"G.R.R. Martin"
+},
+{ 
+"name":"Dr. Seuss"
+},
+{ 
+"name":"Ralph Waldo Emerson"
+},
+{ 
+"name":"C.S. Lewis"
+},
+{ 
+"name":"Alexandre Dumas"
+},
+{ 
+"name":"Jack London"
+},
+{ 
+"name":"Bella Forrest"
+},
+{ 
+"name":"J. K. Rowling"
+},
+{ 
+"name":"C.S. Lewis"
+},
+{ 
+"name":"Paulo Coelo"
+},
+{ 
+"name":"Stephenie Meyer"
+},
+{ 
+"name":"Cormac McCarthy"
+},
+{ 
+"name":"Guillaume Musso"
+},
+{ 
+"name":"Bella Forrest"
+},
+{ 
+"name":"Mary Shelley"
+},
+{ 
+"name":"Jack London"
+},
+{ 
+"name":"Franz Kafka"
+},
+{ 
+"name":"Barbara Cartland"
+},
+{ 
+"name":"Mary Shelley"
+},
+{ 
+"name":"Mary Shelley"
+},
+{ 
+"name":"Stephenie Meyer"
+},
+{ 
+"name":"Jules Verne"
+},
+{ 
+"name":"Alexandre Dumas"
+},
+{ 
+"name":"J. R. R. Tolkien"
+},
+{ 
+"name":"Danielle Steel"
+},
+{ 
+"name":"Dr. Seuss"
+},
+{ 
+"name":"Tennessee Williams"
+},
+{ 
+"name":"Guillaume Musso"
+},
+{ 
+"name":"Agatha Christie"
+},
+{ 
+"name":"Cormac McCarthy"
+},
+{ 
+"name":"Leo Tolstoy"
+},
+{ 
+"name":"William Shakespeare"
+},
+{ 
+"name":"J. K. Rowling"
+},
+{ 
+"name":"Stephen King"
+},
+{ 
+"name":"Nathaniel Hawthorne"
+},
+{ 
+"name":"Mary Shelley"
+},
+{ 
+"name":"Jules Verne"
+},
+{ 
+"name":"Tennessee Williams"
+},
+{ 
+"name":"Ray Bradbury"
+},
+{ 
+"name":"Emily Dickinson"
+},
+{ 
+"name":"Stephen King"
+},
+{ 
+"name":"Oscar Wilde"
+},
+{ 
+"name":"Tennessee Williams"
+},
+{ 
+"name":"Henry James"
+},
+{ 
+"name":"Stephenie Meyer"
+},
+{ 
+"name":"Robert Frost"
+},
+{ 
+"name":"Carolyn Brown"
+},
+{ 
+"name":"Agatha Christie"
+},
+{ 
+"name":"J. K. Rowling"
+},
+{ 
+"name":"J. R. R. Tolkien"
+},
+{ 
+"name":"G.R.R. Martin"
+},
+{ 
+"name":"Dr. Seuss"
+},
+{ 
+"name":"Cormac McCarthy"
+},
+{ 
+"name":"Harper Lee"
+},
+{ 
+"name":"Walt Whitman"
+},
+{ 
+"name":"Guillaume Musso"
+},
+{ 
+"name":"Stephenie Meyer"
+},
+{ 
+"name":"Henry James"
+},
+{ 
+"name":"Bella Forrest"
+},
+{ 
+"name":"Margaret Atwood"
+},
+{ 
+"name":"Carlos Ruiz Zafon"
+},
+{ 
+"name":"Barbara Cartland"
+},
+{ 
+"name":"Herman Melville"
+},
+{ 
+"name":"Mark Twain"
+},
+{ 
+"name":"Henry James"
+},
+{ 
+"name":"C.S. Lewis"
+},
+{ 
+"name":"Horatio Alger"
+},
+{ 
+"name":"T. S. Eliot"
+},
+{ 
+"name":"Alexander Pushkin"
+},
+{ 
+"name":"Carolyn Brown"
+},
+{ 
+"name":"Herman Melville"
+},
+{ 
+"name":"Mark Twain"
+},
+{ 
+"name":"Stephen King"
+},
+{ 
+"name":"F. Scott Fitzgerald"
+},
+{ 
+"name":"F. Scott Fitzgerald"
+},
+{ 
+"name":"G.R.R. Martin"
+},
+{ 
+"name":"Agatha Christie"
+},
+{ 
+"name":"Jin Yong"
+},
+{ 
+"name":"Stephenie Meyer"
+},
+{ 
+"name":"Oscar Wilde"
+},
+{ 
+"name":"Tennessee Williams"
+},
+{ 
+"name":"Ray Bradbury"
+},
+{ 
+"name":"Ralph Waldo Emerson"
+},
+{ 
+"name":"Leo Tolstoy"
+},
+{ 
+"name":"Nathaniel Hawthorne"
+},
+{ 
+"name":"Horatio Alger"
+},
+{ 
+"name":"Dr. Seuss"
+},
+{ 
+"name":"Robert Frost"
+},
+{ 
+"name":"Doris Lessing"
+},
+{ 
+"name":"Barbara Cartland"
+},
+{ 
+"name":"Jack London"
+},
+{ 
+"name":"Paulo Coelo"
+},
+{ 
+"name":"Jules Verne"
+},
+{ 
+"name":"Herman Melville"
+},
+{ 
+"name":"William Faulkner"
+},
+{ 
+"name":"Edith Wharton"
+},
+{ 
+"name":"Barbara Cartland"
+},
+{ 
+"name":"T. S. Eliot"
+},
+{ 
+"name":"Carolyn Brown"
+},
+{ 
+"name":"William Faulkner"
+},
+{ 
+"name":"Mary Shelley"
+},
+{ 
+"name":"Kurt Vonnegut"
+},
+{ 
+"name":"Herman Melville"
+},
+{ 
+"name":"J. K. Rowling"
+},
+{ 
+"name":"J. K. Rowling"
+},
+{ 
+"name":"Ralph Waldo Emerson"
+},
+{ 
+"name":"Jack London"
+},
+{ 
+"name":"Danielle Steel"
+},
+{ 
+"name":"Margaret Atwood"
+},
+{ 
+"name":"Carlos Ruiz Zafon"
+},
+{ 
+"name":"Edith Wharton"
+},
+{ 
+"name":"G.R.R. Martin"
+},
+{ 
+"name":"Rachel Hollis"
+},
+{ 
+"name":"Dr. Seuss"
+},
+{ 
+"name":"Flannery O'Connor"
+},
+{ 
+"name":"William Faulkner"
+},
+{ 
+"name":"Leo Tolstoy"
+},
+{ 
+"name":"Henry James"
+},
+{ 
+"name":"Dr. Seuss"
+},
+{ 
+"name":"J. R. R. Tolkien"
+},
+{ 
+"name":"Walt Whitman"
+},
+{ 
+"name":"William Faulkner"
+},
+{ 
+"name":"Franz Kafka"
+},
+{ 
+"name":"John Steinbeck"
+},
+{ 
+"name":"Barbara Cartland"
+},
+{ 
+"name":"Alexander Pushkin"
+},
+{ 
+"name":"J. K. Rowling"
+},
+{ 
+"name":"Jane Austen"
+},
+{ 
+"name":"Ralph Waldo Emerson"
+},
+{ 
+"name":"Rachel Hollis"
+},
+{ 
+"name":"Rachel Hollis"
+},
+{ 
+"name":"Mary Shelley"
+},
+{ 
+"name":"Jin Yong"
+},
+{ 
+"name":"C.S. Lewis"
+},
+{ 
+"name":"Herman Melville"
+},
+{ 
+"name":"Horatio Alger"
+},
+{ 
+"name":"Margaret Atwood"
+},
+{ 
+"name":"Jules Verne"
+},
+{ 
+"name":"Jack London"
+},
+{ 
+"name":"Ernest Hemingway"
+},
+{ 
+"name":"Stephenie Meyer"
+},
+{ 
+"name":"Edith Wharton"
+},
+{ 
+"name":"G.R.R. Martin"
+},
+{ 
+"name":"Jules Verne"
+},
+{ 
+"name":"Doris Lessing"
+},
+{ 
+"name":"Ralph Waldo Emerson"
+},
+{ 
+"name":"Ray Bradbury"
+},
+{ 
+"name":"Edgar Allan Poe"
+},
+{ 
+"name":"J. R. R. Tolkien"
+},
+{ 
+"name":"Carolyn Brown"
+},
+{ 
+"name":"Danielle Steel"
+},
+{ 
+"name":"Agatha Christie"
+},
+{ 
+"name":"J. R. R. Tolkien"
+},
+{ 
+"name":"Jane Austen"
+},
+{ 
+"name":"Jules Verne"
+},
+{ 
+"name":"Jules Verne"
+},
+{ 
+"name":"J. R. R. Tolkien"
+},
+{ 
+"name":"Jin Yong"
+},
+{ 
+"name":"Harper Lee"
+},
+{ 
+"name":"Carlos Ruiz Zafon"
+},
+{ 
+"name":"Robert Frost"
+},
+{ 
+"name":"Rachel Hollis"
+},
+{ 
+"name":"Henry James"
+},
+{ 
+"name":"Ralph Waldo Emerson"
+},
+{ 
+"name":"Henry James"
+},
+{ 
+"name":"Henry James"
+},
+{ 
+"name":"Edith Wharton"
+},
+{ 
+"name":"Alexander Pushkin"
+},
+{ 
+"name":"Ernest Hemingway"
+},
+{ 
+"name":"Harper Lee"
+},
+{ 
+"name":"Robert Frost"
+},
+{ 
+"name":"J. R. R. Tolkien"
+},
+{ 
+"name":"Harper Lee"
+},
+{ 
+"name":"Herman Melville"
+},
+{ 
+"name":"Stephenie Meyer"
+},
+{ 
+"name":"Harper Lee"
+},
+{ 
+"name":"Mark Twain"
+},
+{ 
+"name":"John Steinbeck"
+},
+{ 
+"name":"C.S. Lewis"
+},
+{ 
+"name":"Flannery O'Connor"
+},
+{ 
+"name":"Dr. Seuss"
+},
+{ 
+"name":"Paulo Coelo"
+},
+{ 
+"name":"Edith Wharton"
+},
+{ 
+"name":"Ernest Hemingway"
+},
+{ 
+"name":"Alexandre Dumas"
+},
+{ 
+"name":"Leo Tolstoy"
+},
+{ 
+"name":"Agatha Christie"
+},
+{ 
+"name":"Guillaume Musso"
+},
+{ 
+"name":"Mary Shelley"
+},
+{ 
+"name":"Mark Twain"
+},
+{ 
+"name":"Edgar Allan Poe"
+},
+{ 
+"name":"William Faulkner"
+},
+{ 
+"name":"T. S. Eliot"
+},
+{ 
+"name":"Dr. Seuss"
+},
+{ 
+"name":"J. K. Rowling"
+},
+{ 
+"name":"William Faulkner"
+},
+{ 
+"name":"Horatio Alger"
+},
+{ 
+"name":"Ralph Waldo Emerson"
+},
+{ 
+"name":"Paulo Coelo"
+},
+{ 
+"name":"Henry James"
+},
+{ 
+"name":"Alexandre Dumas"
+},
+{ 
+"name":"Ray Bradbury"
+},
+{ 
+"name":"Jules Verne"
+},
+{ 
+"name":"John Steinbeck"
+},
+{ 
+"name":"John Steinbeck"
+},
+{ 
+"name":"Mark Twain"
+},
+{ 
+"name":"Kurt Vonnegut"
+},
+{ 
+"name":"Carlos Ruiz Zafon"
+},
+{ 
+"name":"Cormac McCarthy"
+},
+{ 
+"name":"Jane Austen"
+},
+{ 
+"name":"Flannery O'Connor"
+},
+{ 
+"name":"Harper Lee"
+},
+{ 
+"name":"Doris Lessing"
+},
+{ 
+"name":"Danielle Steel"
+},
+{ 
+"name":"Guillaume Musso"
+},
+{ 
+"name":"Kurt Vonnegut"
+},
+{ 
+"name":"Paulo Coelo"
+},
+{ 
+"name":"Jane Austen"
+},
+{ 
+"name":"Harper Lee"
+},
+{ 
+"name":"John Steinbeck"
+},
+{ 
+"name":"Ray Bradbury"
+},
+{ 
+"name":"Alexandre Dumas"
+},
+{ 
+"name":"William Shakespeare"
+},
+{ 
+"name":"William Faulkner"
+},
+{ 
+"name":"Doris Lessing"
+},
+{ 
+"name":"Stephenie Meyer"
+},
+{ 
+"name":"Ernest Hemingway"
+},
+{ 
+"name":"Franz Kafka"
+},
+{ 
+"name":"Bella Forrest"
+},
+{ 
+"name":"Rachel Hollis"
+},
+{ 
+"name":"Tennessee Williams"
+},
+{ 
+"name":"Franz Kafka"
+},
+{ 
+"name":"Barbara Cartland"
+},
+{ 
+"name":"Jin Yong"
+},
+{ 
+"name":"Alexandre Dumas"
+},
+{ 
+"name":"Herman Melville"
+},
+{ 
+"name":"Mark Twain"
+},
+{ 
+"name":"J. K. Rowling"
+},
+{ 
+"name":"Jane Austen"
+},
+{ 
+"name":"F. Scott Fitzgerald"
+},
+{ 
+"name":"Jules Verne"
+},
+{ 
+"name":"C.S. Lewis"
+},
+{ 
+"name":"Ernest Hemingway"
+},
+{ 
+"name":"Henry James"
+},
+{ 
+"name":"C.S. Lewis"
+},
+{ 
+"name":"Kurt Vonnegut"
+},
+{ 
+"name":"G.R.R. Martin"
+},
+{ 
+"name":"Edgar Allan Poe"
+},
+{ 
+"name":"Alexandre Dumas"
+},
+{ 
+"name":"Rachel Hollis"
+},
+{ 
+"name":"Guillaume Musso"
+},
+{ 
+"name":"Kurt Vonnegut"
+},
+{ 
+"name":"C.S. Lewis"
+},
+{ 
+"name":"Jack London"
+},
+{ 
+"name":"Edgar Allan Poe"
+},
+{ 
+"name":"Alexander Pushkin"
+},
+{ 
+"name":"Doris Lessing"
+},
+{ 
+"name":"Rachel Hollis"
+},
+{ 
+"name":"C.S. Lewis"
+},
+{ 
+"name":"Agatha Christie"
+},
+{ 
+"name":"Franz Kafka"
+},
+{ 
+"name":"G.R.R. Martin"
+},
+{ 
+"name":"G.R.R. Martin"
+},
+{ 
+"name":"Tennessee Williams"
+},
+{ 
+"name":"Tennessee Williams"
+},
+{ 
+"name":"Harper Lee"
+},
+{ 
+"name":"Kurt Vonnegut"
+},
+{ 
+"name":"Paulo Coelo"
+},
+{ 
+"name":"Edgar Allan Poe"
+},
+{ 
+"name":"Dr. Seuss"
+},
+{ 
+"name":"Doris Lessing"
+},
+{ 
+"name":"Nathaniel Hawthorne"
+},
+{ 
+"name":"Carolyn Brown"
+},
+{ 
+"name":"Oscar Wilde"
+},
+{ 
+"name":"Herman Melville"
+},
+{ 
+"name":"Edith Wharton"
+},
+{ 
+"name":"Ernest Hemingway"
+},
+{ 
+"name":"F. Scott Fitzgerald"
+},
+{ 
+"name":"Agatha Christie"
+},
+{ 
+"name":"Tennessee Williams"
+},
+{ 
+"name":"Oscar Wilde"
+},
+{ 
+"name":"John Steinbeck"
+},
+{ 
+"name":"Walt Whitman"
+},
+{ 
+"name":"Horatio Alger"
+},
+{ 
+"name":"Franz Kafka"
+},
+{ 
+"name":"Franz Kafka"
+},
+{ 
+"name":"Walt Whitman"
+},
+{ 
+"name":"Rachel Hollis"
+},
+{ 
+"name":"Stephenie Meyer"
+},
+{ 
+"name":"Alexandre Dumas"
+},
+{ 
+"name":"Robert Frost"
+},
+{ 
+"name":"Stephen King"
+},
+{ 
+"name":"J. R. R. Tolkien"
+},
+{ 
+"name":"Danielle Steel"
+},
+{ 
+"name":"Carlos Ruiz Zafon"
+},
+{ 
+"name":"Margaret Atwood"
+},
+{ 
+"name":"Jack London"
+},
+{ 
+"name":"Bella Forrest"
+},
+{ 
+"name":"Alexander Pushkin"
+},
+{ 
+"name":"Herman Melville"
+},
+{ 
+"name":"Alexander Pushkin"
+},
+{ 
+"name":"Emily Dickinson"
+},
+{ 
+"name":"Alexander Pushkin"
+},
+{ 
+"name":"Margaret Atwood"
+},
+{ 
+"name":"J. K. Rowling"
+},
+{ 
+"name":"Jack London"
+},
+{ 
+"name":"Kurt Vonnegut"
+},
+{ 
+"name":"Tennessee Williams"
+},
+{ 
+"name":"Jules Verne"
+},
+{ 
+"name":"Henry James"
+},
+{ 
+"name":"Dr. Seuss"
+},
+{ 
+"name":"Robert Frost"
+},
+{ 
+"name":"Harper Lee"
+},
+{ 
+"name":"Oscar Wilde"
+},
+{ 
+"name":"John Steinbeck"
+},
+{ 
+"name":"Stephenie Meyer"
+},
+{ 
+"name":"Stephen King"
+},
+{ 
+"name":"Bella Forrest"
+},
+{ 
+"name":"Henry James"
+},
+{ 
+"name":"Henry James"
+},
+{ 
+"name":"Ernest Hemingway"
+},
+{ 
+"name":"Stephenie Meyer"
+},
+{ 
+"name":"Mark Twain"
+},
+{ 
+"name":"Emily Dickinson"
+},
+{ 
+"name":"G.R.R. Martin"
+},
+{ 
+"name":"Rachel Hollis"
+},
+{ 
+"name":"William Faulkner"
+},
+{ 
+"name":"Franz Kafka"
+},
+{ 
+"name":"Kurt Vonnegut"
+},
+{ 
+"name":"William Faulkner"
+},
+{ 
+"name":"Stephen King"
+},
+{ 
+"name":"Dr. Seuss"
+},
+{ 
+"name":"F. Scott Fitzgerald"
+},
+{ 
+"name":"Danielle Steel"
+},
+{ 
+"name":"Tennessee Williams"
+},
+{ 
+"name":"Tennessee Williams"
+},
+{ 
+"name":"John Steinbeck"
+},
+{ 
+"name":"Danielle Steel"
+},
+{ 
+"name":"Carlos Ruiz Zafon"
+},
+{ 
+"name":"Robert Frost"
+},
+{ 
+"name":"T. S. Eliot"
+},
+{ 
+"name":"Flannery O'Connor"
+},
+{ 
+"name":"Horatio Alger"
+},
+{ 
+"name":"Walt Whitman"
+},
+{ 
+"name":"Oscar Wilde"
+},
+{ 
+"name":"Alexander Pushkin"
+},
+{ 
+"name":"Horatio Alger"
+},
+{ 
+"name":"Flannery O'Connor"
+},
+{ 
+"name":"Barbara Cartland"
+},
+{ 
+"name":"Dr. Seuss"
+},
+{ 
+"name":"Tennessee Williams"
+},
+{ 
+"name":"Doris Lessing"
+},
+{ 
+"name":"John Steinbeck"
+},
+{ 
+"name":"Mark Twain"
+},
+{ 
+"name":"Guillaume Musso"
+},
+{ 
+"name":"Oscar Wilde"
+},
+{ 
+"name":"Oscar Wilde"
+},
+{ 
+"name":"Stephen King"
+},
+{ 
+"name":"Cormac McCarthy"
+},
+{ 
+"name":"Kurt Vonnegut"
+},
+{ 
+"name":"William Faulkner"
+},
+{ 
+"name":"J. R. R. Tolkien"
+},
+{ 
+"name":"Horatio Alger"
+},
+{ 
+"name":"Rachel Hollis"
+},
+{ 
+"name":"Oscar Wilde"
+},
+{ 
+"name":"Alexander Pushkin"
+},
+{ 
+"name":"J. K. Rowling"
+},
+{ 
+"name":"Leo Tolstoy"
+},
+{ 
+"name":"Stephen King"
+},
+{ 
+"name":"J. K. Rowling"
+},
+{ 
+"name":"Nathaniel Hawthorne"
+},
+{ 
+"name":"Emily Dickinson"
+},
+{ 
+"name":"T. S. Eliot"
+},
+{ 
+"name":"Alexandre Dumas"
+},
+{ 
+"name":"Ralph Waldo Emerson"
+},
+{ 
+"name":"Stephenie Meyer"
+},
+{ 
+"name":"Barbara Cartland"
+},
+{ 
+"name":"Margaret Atwood"
+},
+{ 
+"name":"Mark Twain"
+},
+{ 
+"name":"G.R.R. Martin"
+},
+{ 
+"name":"Stephenie Meyer"
+},
+{ 
+"name":"Emily Dickinson"
+},
+{ 
+"name":"William Faulkner"
+},
+{ 
+"name":"William Shakespeare"
+},
+{ 
+"name":"Ray Bradbury"
+},
+{ 
+"name":"Walt Whitman"
+},
+{ 
+"name":"Stephen King"
+},
+{ 
+"name":"William Shakespeare"
+},
+{ 
+"name":"Walt Whitman"
+},
+{ 
+"name":"J. K. Rowling"
+},
+{ 
+"name":"J. K. Rowling"
+},
+{ 
+"name":"Edith Wharton"
+},
+{ 
+"name":"Harper Lee"
+},
+{ 
+"name":"C.S. Lewis"
+},
+{ 
+"name":"Guillaume Musso"
+},
+{ 
+"name":"Dr. Seuss"
+},
+{ 
+"name":"Edith Wharton"
+},
+{ 
+"name":"Oscar Wilde"
+},
+{ 
+"name":"William Faulkner"
+},
+{ 
+"name":"Oscar Wilde"
+},
+{ 
+"name":"Stephen King"
+},
+{ 
+"name":"Ray Bradbury"
+},
+{ 
+"name":"Danielle Steel"
+},
+{ 
+"name":"Cormac McCarthy"
+},
+{ 
+"name":"Robert Frost"
+},
+{ 
+"name":"Oscar Wilde"
+},
+{ 
+"name":"Danielle Steel"
+},
+{ 
+"name":"Mark Twain"
+},
+{ 
+"name":"Carolyn Brown"
+},
+{ 
+"name":"Carolyn Brown"
+},
+{ 
+"name":"Agatha Christie"
+},
+{ 
+"name":"Carolyn Brown"
+},
+{ 
+"name":"Margaret Atwood"
+},
+{ 
+"name":"G.R.R. Martin"
+},
+{ 
+"name":"Rachel Hollis"
+},
+{ 
+"name":"Flannery O'Connor"
+},
+{ 
+"name":"Tennessee Williams"
+},
+{ 
+"name":"Robert Frost"
+},
+{ 
+"name":"Ray Bradbury"
+},
+{ 
+"name":"Franz Kafka"
+},
+{ 
+"name":"Emily Dickinson"
+}
+]}
