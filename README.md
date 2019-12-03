@@ -35,6 +35,10 @@
 - `[POST]` endpoint (add resource)
 - `[PATCH]` endpoint/:resourceId (update the data for the specified resource)
  
+ ## Cache remarks
+ There are two kinds of caches here:
+ - dumb caching that relies on the query string for a very short time (15 seconds) without any cache invalidation logic.
+ - entity cache that relies on the id of each entity. Cache invalidation is performed on every entity updating.
  ## Some request examples
  - http://localhost:3000/api/v1/books/1
  - http://localhost:3000/api/v1/books/1?fields=title
