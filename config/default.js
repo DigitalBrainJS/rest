@@ -20,7 +20,7 @@ module.exports = {
         db: 0
     },
     cache: {
-        cacheKeyBase: `${_package.name}:cache:`,
+        cacheKeyBase: `${_package.name}:cache`,
         defaultTTL: 10,
     },
     isDevelopment: process.env.NODE_ENV !=='production',
