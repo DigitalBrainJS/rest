@@ -29,7 +29,7 @@
     "koa-response-time": "^2.1.0",
     "koa-router": "^7.4.0",
     "minimist": "^1.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mysql2": "^2.0.0",
     "package": "^1.0.1",
     "redis": "^2.8.0",
